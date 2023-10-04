@@ -1,10 +1,10 @@
 # Exercice un (04/10/2023) 
 
-## Les etapes exécuter : 
+## Les étapes exécuter : 
 
 
 - [x] Prendre mon image Ubuntu => docker pull ubuntu
-- [x] Creer un container à partir de mon image ubuntu => docker container -it run nomdeImage
+- [x] Créer un container à partir de mon image ubuntu => docker container -it run nomdeImage
       
    **Faire toutes les maj nécessaire** :
 - [x] apt upgrade && apt update
@@ -13,9 +13,9 @@
 - [x] apt install net-tools
 
 - [x] Commit mon container pour creer une nouvelle image avec toute les maj => docker commit IDCONTAINER NOM_DE_MA_NOUVELLE IMG
-- [x] Creer un network => docker network create NOM_DU_NETWORK
-- [x] Creer un volume => docker volume create NOM_DU_VOLUME
-- [x] Creer 3 container => docker container run -it vipingentu(NOM_DE_L'IMG) bash x3
+- [x] Créer un network => docker network create NOM_DU_NETWORK
+- [x] Créer un volume => docker volume create NOM_DU_VOLUME
+- [x] Créer 3 container => docker container run -it vipingentu(NOM_DE_L'IMG) bash x3
 - [x] Sortir du terminal du container => exit
 - [x] Rename mes 3 container => docker container rename NOM_ACTUEL NOUVEAU_NOM x3
 - [x] Start mes container => docker container start ID_DU_CONTAINER
@@ -37,9 +37,9 @@
 ![Capture d’écran 2023-10-04 114714](https://github.com/AnthoLC77/Docker_xp/assets/84148016/3827227f-9f26-4601-adf8-47e86f936c53)
 
 
-# Exercie deux (04/10/2023) 
+# Exercice deux (04/10/2023) 
 
-## Les etapes exécuter : 
+## Les étapes exécuter : 
 
 ### AVEC VIM INSTALLER : 
 
